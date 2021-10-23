@@ -1,1 +1,2 @@
-# Unity_uwm_BJ
+# Unity repo z zadaniami
+# Bartosz Jankowski - grupa 2
